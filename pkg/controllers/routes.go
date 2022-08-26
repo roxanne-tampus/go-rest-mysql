@@ -4,9 +4,10 @@ import (
 	"encoding/json"
 	"fmt"
 	"net/http"
-	"rest-mysql-go/pkg/models"
-	"rest-mysql-go/pkg/utils"
 	"strconv"
+
+	"github.com/roxanne-tampus/rest-mysql-go/pkg/models"
+	"github.com/roxanne-tampus/rest-mysql-go/pkg/utils"
 
 	"github.com/gorilla/mux"
 )

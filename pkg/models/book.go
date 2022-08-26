@@ -1,7 +1,7 @@
 package models
 
 import (
-	"rest-mysql-go/pkg/config"
+	"github.com/roxanne-tampus/rest-mysql-go/pkg/config"
 
 	"github.com/jinzhu/gorm"
 )

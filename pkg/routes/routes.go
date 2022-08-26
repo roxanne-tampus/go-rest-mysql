@@ -1,7 +1,7 @@
 package routes
 
 import (
-	"rest-mysql-go/pkg/controllers"
+	"github.com/roxanne-tampus/rest-mysql-go/pkg/controllers"
 
 	"github.com/gorilla/mux"
 )
